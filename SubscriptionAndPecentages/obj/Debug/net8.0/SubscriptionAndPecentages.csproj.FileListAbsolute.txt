@@ -1,0 +1,15 @@
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/bin/Debug/net8.0/SubscriptionAndPecentages
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/bin/Debug/net8.0/SubscriptionAndPecentages.deps.json
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/bin/Debug/net8.0/SubscriptionAndPecentages.runtimeconfig.json
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/bin/Debug/net8.0/SubscriptionAndPecentages.dll
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/bin/Debug/net8.0/SubscriptionAndPecentages.pdb
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/obj/Debug/net8.0/SubscriptionAndPecentages.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/obj/Debug/net8.0/SubscriptionAndPecentages.AssemblyInfoInputs.cache
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/obj/Debug/net8.0/SubscriptionAndPecentages.AssemblyInfo.cs
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/obj/Debug/net8.0/SubscriptionAndPecentages.csproj.CoreCompileInputs.cache
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/obj/Debug/net8.0/SubscriptionAndPecentages.sourcelink.json
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/obj/Debug/net8.0/SubscriptionAndPecentages.dll
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/obj/Debug/net8.0/refint/SubscriptionAndPecentages.dll
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/obj/Debug/net8.0/SubscriptionAndPecentages.pdb
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/obj/Debug/net8.0/SubscriptionAndPecentages.genruntimeconfig.cache
+/workspaces/Business-subscription-logic/SubscriptionAndPecentages/obj/Debug/net8.0/ref/SubscriptionAndPecentages.dll
